@@ -30,7 +30,7 @@ if __name__=='__main__':
 #stored the dataset into cache memory    
 @st.cache()
 def data():
-    okc=pd.read_excel("https://github.com/Rumana20/Project2/blob/main/Copy%20of%20User%20Details_Faf.xlsx") 
+    okc=pd.read_excel("Copy of User Details_Faf.xlsx") 
     return data
 
 
