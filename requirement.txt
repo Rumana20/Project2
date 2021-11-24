@@ -1,0 +1,51 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Nov 24 16:33:08 2021
+
+@author: admin
+"""
+
+beautifulsoup4==4.9.1
+
+blinker==1.4
+bokeh==2.4.0
+
+
+decorator==4.4.2
+
+
+html5lib @ file:///tmp/build/80754af9/html5lib_1593446221756/work
+htmlmin==0.1.12
+
+Markdown==3.3.4
+MarkupSafe==1.1.1
+matplotlib @ file:///C:/ci/matplotlib-base_1592837548929/work
+
+mpmath==1.1.0
+
+navigator-updater==0.2.1
+nbconvert==5.6.1
+
+nltk @ file:///tmp/build/80754af9/nltk_1592496090529/work
+
+numpy==1.18.5
+
+pandas @ file:///C:/ci/pandas_1592833613419/work
+pandas-datareader==0.10.0
+
+
+
+regex @ file:///C:/ci/regex_1593419644658/work
+requests @ file:///tmp/build/80754af9/requests_1592841827918/work
+
+scikit-image==0.16.2
+scikit-learn @ file:///C:/ci/scikit-learn_1592853510272/work
+scipy @ file:///C:/ci/scipy_1592916963468/work
+seaborn==0.10.1
+
+sphinxcontrib-htmlhelp==1.0.3
+
+statsmodels==0.11.1
+streamlit==1.2.0
+
+unicodecsv==0.14.1
