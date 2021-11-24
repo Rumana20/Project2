@@ -12,14 +12,23 @@ bokeh==2.4.0
 
 
 decorator==4.4.2
-
-
+math
+numpy 
+pandas 
+scipy.sparse
+sklearn.neighbors 
+html.parser
+sklearn.feature_extract.text
+SnowballStemmer
 html5lib @ file:///tmp/build/80754af9/html5lib_1593446221756/work
 htmlmin==0.1.12
 
 Markdown==3.3.4
 MarkupSafe==1.1.1
 matplotlib @ file:///C:/ci/matplotlib-base_1592837548929/work
+re
+nltk
+
 
 mpmath==1.1.0
 
