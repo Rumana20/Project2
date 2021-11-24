@@ -30,7 +30,7 @@ if __name__=='__main__':
 #stored the dataset into cache memory    
 @st.cache()
 def data():
-    okc=pd.read_excel("D:/5th Sem/Project/Copy of User Details_Faf.xlxs") 
+    okc=pd.read_excel("Copy of User Details_Faf.xlxs") 
     return data
 
 
