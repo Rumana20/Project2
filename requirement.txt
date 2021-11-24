@@ -49,3 +49,4 @@ statsmodels==0.11.1
 streamlit==1.2.0
 
 unicodecsv==0.14.1
+openpyxl @ file:///tmp/build/80754af9/openpyxl_1594167385094/work
