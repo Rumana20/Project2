@@ -27,7 +27,7 @@ from scipy.sparse import csr_matrix
 from sklearn.neighbors import NearestNeighbors
 
 
-ok=pd.read_excel("D:/5th Sem/Project/Copy of User Details_Faf.xlsx")
+ok=pd.read_excel("Copy of User Details_Faf.xlsx")
 
 
 
