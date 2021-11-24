@@ -35,7 +35,6 @@ def data():
 
 
 #when we receive a response, tat will be appened to the cache memory    
-@st.cache()
 def get_data():
     return []
 
